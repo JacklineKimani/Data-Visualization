@@ -1,0 +1,21 @@
+Country,Region,2W/3W,4W/LDW,Buses,Total EVs,Number of companies,Charging Stations,EV Readiness(%)
+Morocco,North Africa,2000,350,19,2369,6,82,46
+Algeria,North Africa,,,,0,1,100,36
+Tunisia,North Africa,,,,0,2,0,30
+Egypt,North Africa,,380,156,536,8,48,53
+Mali,North Africa,,,,0,0,0,16
+Senegal,West Africa,20,10,0,30,2,4,21
+Sierra Leone,West Africa,70,0,0,70,1,0,21
+Burkina Faso ,West Africa,50,,,50,0,0,12
+Ghana,West Africa,250,1000,0,1250,6,20,36
+Togo,West Africa,4000,,,4000,3,1,32
+Nigeria,West Africa,100,,38,138,13,2,22
+Cameroon,Central Africa,,,3,3,0,4,21
+DRC,Central Africa,284,,,284,0,0,19
+Angola,Central Africa,0,1000,,1000,1,50,43
+Zambia,Southern Africa,52,42,0,94,3,0,31
+Zimbabwe,Southern Africa,,20,0,20,6,0,49
+South Africa,Southern Africa,,1559,4,1563,10,277,31
+Tanzania,East Africa,10000,30,,10030,11,1,24
+Rwanda,East Africa,1182,20,,1202,9,27,59
+Kenya,East Africa,1676,205,20,1901,40,13,54
